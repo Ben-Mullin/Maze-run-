@@ -1,23 +1,17 @@
-# CSC Hacks Sample Project Repo
-
-This repo is an example of a team project repository that meets all of [the repository requirements](https://www.notion.so/CSC-Hacks-901a62e005c8494fa342e0cc738101ad#da206965e3ed497f9bd6c1ceebd4fac9). Feel free to download / clone this repository as a starting point.
-
-## Project Description
-*This is intentionally open-ended, but consider that people will be reading this to get a brief understanding of what you're working on.* Some ideas are:
-* We want to accomplish x, y, z, using technologies x, y, z.
-* We want to do this because of x, y, z.
-* Doing this will require learning x, y, z.
-* We anticipate the following challenges: x, y, z.
+# Project Description
+* We want to accomplish implementing some form of behavior tree that succesfully runs a "lab rat" through a maze in Unity, using a mix of C# and Unity
+* We want to do this because of this will help me (Ben) learn the tools before having to do a similar, but more intense group project with the same tools. Nate would like to learn C# for a company he is interested in interning at. 
+* Doing this will require learning more than basic coding skills, learning the C# language, learning how to use the Unity game engine, and potentially using visual basic.
+* We anticipate the following challenges: Getting used to the Unity system, coding with new syntax, spending hours in youtube tutorials, and getting frustrated to no end over making basic mistakes and running into them later down the line.
 
 ## Team Information
-Richie Goulazian
-* Pitt CS, 2023
-* rgoulazian@pitt.edu
-* Richie78321 in the CSC Discord
-* Check out my portfolio site! https://rgoulazian.com/
+Bem Mullin
+* Pitt CS, 2025
+* brm208@pitt.edu
+* Longqueue7100 in the CSC Discord
+* Add me on linked https://www.linkedin.com/in/ben-mullin-9a1803221/
 
-Ming Wang
-* Pitt CS, 2022
-* zhw78@pitt.edu
-* He smells
-* https://www.linkedin.com/in/zhengmingwang/
+Nate Ginck
+* Pitt COE
+* neg53@pitt.edu
+
